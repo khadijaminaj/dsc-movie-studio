@@ -63,3 +63,21 @@ Engaging Genres: Drama, Action, Adventure, and Comedy genres receive the highest
 ## Recommendations
 By focusing on producing movies in popular genres with a large fan base and creating films that appeal to both local and international audiences, our new movie studio has a high chance of success.
 
+# How to Run the project
+1. ### Install all the required dependencies
+   Make sure you have `pip` installed. Then, run the following command in your terminal to install all necessary packages:
+
+   ```shell
+   pip install -r requirements.txt
+   ```
+
+2. ### Prepare the data
+   Copy the `im.db.zip` file from the `dsc-phase-2-project-v3/zippedData` directory. Unzip this file and place the resulting `im.db` file in the `data` folder of your project directory.
+
+3. ### Run the Jupyter Notebook
+   Launch Jupyter Notebook by running the following command in your terminal:
+
+   ```shell
+   jupyter notebook
+   ```
+   Open the `notebook.ipynb` file and run the cells to execute the project code.
